@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "affable-radio-402918",
+  "private_key_id": "23c4170fa2d1422e0d3b7d7efde8b7305918b25c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/PpBVyLRv65cV\nYxnSC9yDIwNCnAFy+5B+gBWFvrHRokPpT4ifvkeevNh1jL7moPcVPFh6wRBRos2/\nwNklsd8ESNVjLnZ1amZuKEEsIZ5q5IR3z+2r1Rql1h+jbc5D3hPWKj3u9zzAGkSO\nHe9Q3fof9jak2JtKyToIG9xK73+4/aG4FUOdAANTUEyKloocBH/yXf4sGM9wyJ5M\nd63XmuFDfZb/F8/FYeYM0o0j3+j6UIO5X8a69y9ErEEGEEvj5O187LUPXxuAsAHu\nuM7hOf+taSDZJaE7xRrulbta4o9o0vW6pVkwsNIK+TREKn1xGYw43tjyJXDUHrcL\nBE62nVOFAgMBAAECggEAJbqgzH+2Uz8x9QLyUN1MsWVaqw0ufwHwuXgo5tQebhpa\nVgC+Fi+6nu8oMBamgcbfQAYB+aO1hbl96FbSMCzVb9mzmWfM8HCfiRtxchSm1XVE\nSgPQIn5+DZn+72XGE98P4EhApDCMAGUeQcBXmodUZXJUSPS/vEMTKw7eCL2Tn8m3\n7a0qDSZAhSTf2ZQWyHIn9OJ6pCSNT3rllEyPTC8+7/aoCangmrXTj2+b/XPIcjdL\nt4bXVljGw7YBrhT0CESt4oa7H46I1mW7FYbrzTii+RJR/F+9ReZWYNzY33olsXlJ\nl5I1Zb+Bdm44U8Uf8iPB/qPfQRzEfbP/3wVSHDE4eQKBgQD5Ongfd9ZCG4F/CjrY\n6/IuXqDo0l73bFHc3+HSZHkni0KKhc5pMOtAXQ/oqG9aUi/73S6/KjzqjXscZArg\n1Fu97fTUwoJFa0/mMfYmR1z3czYP6oQaigZwzDn1QOqTFXFhVk+Uc6Ea/tRhbG9p\ny44URYPaBZbTQazgD02Seix9aQKBgQDEcMgT/K+OJ9sjZ6inHSJN36nJqEnuCNNh\nDGTXGo4nNboAdCkB557DAVkcED8iIzbfF8OJspLVmlKzkBgyQT6lOKM/a0R4zoZE\ntV6yR8sZbfIzMoBJ8KR38m2PPSr47rudPEdLl7mvPNGVf1HJHnHmKOhJRMaeMkLX\nxRiyz541vQKBgQC2Z4mVFmL0vSbYsMcDDiSQtWc1HwqsMVX0vtKK5kgZnf2UXnwE\nVu5GjBXhpKziwPYncukMtkAhNm0dCUdA54tBhY/Dy5wGbJTsmDJcL6yl2md93JjU\nx6IRGhdtHRbRkUcLA114++u0Uz9jEja0imsxAPOQNLj/YrjAv9J5WvuGyQKBgDbm\nfkR3vmiwYuJGOjBaSBgThlRBoEfSV6Er4ZLsbQYwUceGr19E6G3/lnPtZneX9+Hp\ntlBpg/gGpU5h2yFQcr2iUp2K0RwiPAw/1DNnNS/qNmJwnsILayvKqSv7IGNp9S1A\nh3xs7ww2pyxs5OKci6CTljfD7O6RhXTgNMLkm4bRAoGAdYUXlkrDYy4QD5C2szEF\nGlwmH0FQpo0jOCXOpUxMevtpqATS52tewRfWiqDI+NTwAxxOW73JuwX7CIlLU8qs\neWpVXK7H71DNJ0Eb9t2m4H+kBVIQ5Msh5Q+RLmuC9cm+53CVJTTLkyI3k0439I+/\nAKKWZkJvwf7DImpiGHRlWEI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "coursematerial@affable-radio-402918.iam.gserviceaccount.com",
+  "client_id": "104580924818879357256",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coursematerial%40affable-radio-402918.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
